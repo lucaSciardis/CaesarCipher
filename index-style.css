@@ -1,0 +1,22 @@
+body{
+height: 100vh;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box-header{
+
+height: 20%;
+width: 100%;
+background-color: aqua;   
+}
+
+.box-body{
+height: 60%;
+width: 100%;
+background-color: red;   
+
+}
